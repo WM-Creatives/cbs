@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="617ac8e1-70ee-4fb1-af01-f1d5dde1ce6d" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/jpa-buddy.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Accounts/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Accounts/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Accounts/src/main/java/cbs/Accounts/AccountsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Accounts/src/main/java/cbs/Accounts/Config/CustomExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Accounts/src/main/java/cbs/Accounts/DTO/AccountInformation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Accounts/src/main/java/cbs/Accounts/DTO/ResponseTemplate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Accounts/src/main/java/cbs/Accounts/Models/Accounts/Account.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Accounts/src/main/java/cbs/Accounts/Models/Accounts/AccountOperations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Accounts/src/main/java/cbs/Accounts/Models/Accounts/AccountRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Accounts/src/main/java/cbs/Accounts/Models/Accounts/AccountService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Accounts/src/main/java/cbs/Accounts/Resources/AccountsResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Accounts/src/main/java/cbs/Accounts/Utils/Enums/AccountFunctions.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Accounts/src/main/java/cbs/Accounts/Utils/Enums/AccountStatus.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Accounts/src/main/java/cbs/Accounts/Utils/Mapppers/AccountDTOMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Accounts/src/main/java/cbs/Accounts/Utils/Mapppers/ToAccountMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Alerts/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Alerts/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customers/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customers/src/main/java/cbs/Customers/CustomerMicroApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customers/src/main/java/cbs/Customers/DTO/CustomerDTO.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customers/src/main/java/cbs/Customers/DTO/ResponseTemplate.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customers/src/main/java/cbs/Customers/Exceptions/CustomerIdAlreadyUSed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customers/src/main/java/cbs/Customers/Exceptions/PhoneNumberAlreadyUsed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customers/src/main/java/cbs/Customers/Exceptions/PinAlreadyUsed.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customers/src/main/java/cbs/Customers/Models/Business/Business.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customers/src/main/java/cbs/Customers/Models/Business/BusinessRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customers/src/main/java/cbs/Customers/Models/Business/BusinessService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customers/src/main/java/cbs/Customers/Models/Contact/Contact.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customers/src/main/java/cbs/Customers/Models/Contact/ContactRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customers/src/main/java/cbs/Customers/Models/Contact/ContactService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customers/src/main/java/cbs/Customers/Models/Customer/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customers/src/main/java/cbs/Customers/Models/Customer/CustomerDTOMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customers/src/main/java/cbs/Customers/Models/Customer/CustomerMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customers/src/main/java/cbs/Customers/Models/Customer/CustomerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customers/src/main/java/cbs/Customers/Models/Customer/CustomerService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customers/src/main/java/cbs/Customers/Models/Kins/Kin.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customers/src/main/java/cbs/Customers/Models/Kins/KinRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customers/src/main/java/cbs/Customers/Models/Kins/KinsService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customers/src/main/java/cbs/Customers/Models/Referees/Referee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customers/src/main/java/cbs/Customers/Models/Referees/RefereeRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customers/src/main/java/cbs/Customers/Models/Referees/RefereeService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customers/src/main/java/cbs/Customers/Resources/CustomersResource.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customers/src/main/java/cbs/Customers/Utils/CustomExceptionHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customers/src/main/resources/application-docker.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customers/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Customers/src/main/resources/schema.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Reports/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SystemConfig/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SystemConfig/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SystemConfig/src/main/java/cbs/Config/ConfigMicroApplication.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SystemConfig/src/main/java/cbs/Config/DAO/Currency/Currency.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SystemConfig/src/main/java/cbs/Config/DAO/Currency/CurrencyRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SystemConfig/src/main/resources/application.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Transactions/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Transactions/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Users/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Users/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/docker-compose.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DarkyenusTimeTracker">
+    <option name="totalTimeSeconds" value="26258" />
+    <option name="idleThresholdMs" value="60000" />
+    <option name="gitIntegration" value="true" />
+    <option name="naggedAbout" value="1" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+        <option value="Interface" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2ItTMJEnWoiQPgU4zGe3sIqrX8y" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+    "last_directory_selection": "C:/Users/mwang/Documents/projects/wmc/cbs/Accounts/src/main/java/cbs/Accounts",
+    "last_opened_file_path": "C:/Users/mwang/Documents/projects/spring boot/reactive-java-workshop",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.0",
+    "project.structure.side.proportion": "0.0"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\mwang\Documents\projects\wmc\cbs\Accounts\src\main\java\Models\" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="cbs.Accounts" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="617ac8e1-70ee-4fb1-af01-f1d5dde1ce6d" name="Changes" comment="" />
+      <created>1670999852694</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670999852694</updated>
+    </task>
+    <servers />
+  </component>
+</project>
